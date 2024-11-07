@@ -7,12 +7,12 @@
 
 you Can Dork me my name on google for more information:
 
-Hall of Fame on Apple - https://support.apple.com/en-us/102774    - 2024 <br>
-Hall of fame on Nvidia - https://www.nvidia.com/en-us/security/acknowledgements/   -2022  <br>
-HOF https://csr.msi.com/global/product-security-advisories  <br>
-HOF https://drexel.edu/it/security/services-processes/bug-bounty/   -2023 <br>
-HOF https://www.broadcom.com/support/security-center/security-thanks? - 2023 <br>
-HOF https://www.achmea.nl/en/responsible-disclosure/hall-of-fame  -2023 <br>
+Hall of Fame on Apple - <a href=https://support.apple.com/en-us/102774> Apple HOF </a>   - 2024 <br>
+Hall of fame on Nvidia - <a href=https://www.nvidia.com/en-us/security/acknowledgements/)>nVidia HOF </a>    -2022  <br>
+HOF - <a href=https://csr.msi.com/global/product-security-advisories> MSI HOF</a>  <br>
+HOF <a href=https://drexel.edu/it/security/services-processes/bug-bounty/> Drexel University HOF</a>   -2023 <br>
+HOF <a href=https://www.broadcom.com/support/security-center/security-thanks? > Broadcom HOF</a> - 2023 <br>
+HOF <a href=https://www.achmea.nl/en/responsible-disclosure/hall-of-fame> Achmea HOF </a>  -2023 <br>
 
 Also acknowledged by NCIIPC, the Indian Government, for finding a critical vulnerability!
 +++ more 
