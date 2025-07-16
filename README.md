@@ -8,7 +8,8 @@
 you Can Dork me my name on google for more information:
 
 Hall of Fame on Apple - <a href=https://support.apple.com/en-us/102774> Apple HOF </a>   - 2024 <br>
-Hall of fame on Nvidia - <a href=https://www.nvidia.com/en-us/security/acknowledgements/)>nVidia HOF </a>    -2022  <br>
+Hall of Fame on Nvidia - <a href=https://www.nvidia.com/en-us/security/acknowledgements/)>nVidia HOF </a>    -2022  <br>
+Hall of Fame on EA - <a href=https://www.ea.com/security/hall-of-fame>EA </a> -2024 <br>
 HOF - <a href=https://csr.msi.com/global/product-security-advisories> MSI HOF</a>  <br>
 HOF <a href=https://drexel.edu/it/security/services-processes/bug-bounty/> Drexel University HOF</a>   -2023 <br>
 HOF <a href=https://www.broadcom.com/support/security-center/security-thanks? > Broadcom HOF</a> - 2023 <br>
