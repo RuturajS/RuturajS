@@ -1,9 +1,10 @@
-- 👋 <h1>Hi, I’m Ruturaj S </h1> </p>
+- 👋 <h1>Hi, I’m Ruturaj  </h1> </p>
 - 👀 I’m interested in Software Testing domain,Software Automation (Selenium with Java) and bug bounty programs, ethical hacking ,cyber security...
 - 🌱 I’m currently learning ethical hacking related to content ...
 - 💞️ I’m looking to collaborate on ethical hacking and software testing with web app pentesting...
 - 📫 How to reach me you can mail me here or linkedin ...
 - 📚 My Hosted First Course on Udemy check out https://www.udemy.com/course/google-hacking-databases-information-gathering/
+- Apart of this i like to explore AI automation and usecases of AI in worktasks.
 
 you Can Dork me my name on google for more information:
 
@@ -43,15 +44,6 @@ You can click the Preview link to take a look at your changes.
 
 <br><br></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturajs&show_icons=true&locale=en&layout=compact" alt="ruturajs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruturajs&show_icons=true&locale=en" alt="ruturajs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturajs&" alt="ruturajs" /></p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ruturaj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruturaj04" /></a></p>
-<p/><br/>
-<img src=https://github.com/user-attachments/assets/d2ffffd7-94da-4fad-8239-c2a50c39d85e/ width=80 height=80/>
 
