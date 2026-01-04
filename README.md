@@ -1,11 +1,36 @@
-- 👋 <h1>Hi, I’m Ruturaj  </h1> </p>
-- 👀 I’m interested in Software Testing domain,Software Automation (Selenium with Java) and bug bounty programs, ethical hacking ,cyber security...
-- 🌱 I’m currently learning ethical hacking related to content ...
-- 💞️ I’m looking to collaborate on ethical hacking and software testing with web app pentesting...
-- 📫 How to reach me you can mail me here or linkedin ...
-- 📚 My Hosted First Course on Udemy check out https://www.udemy.com/course/google-hacking-databases-information-gathering/
-- Apart of this i like to explore AI automation and usecases of AI in worktasks.
+# 👋 Hi, I’m Ruturaj
 
+![QA Engineer](https://img.shields.io/badge/Role-QA%20Engineer-blue)
+![Automation](https://img.shields.io/badge/Automation-Selenium%20%7C%20Java-brightgreen)
+![Security](https://img.shields.io/badge/Security-Web%20%26%20API%20Testing-red)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-success)
+![AI](https://img.shields.io/badge/Interest-AI%20Automation-purple)
+
+---
+## 👨‍💻 About Me
+- 🧪 **QA Professional with 4+ years of experience** in Manual, Automation, and Security Testing.
+- 🤖 Expertise in **Selenium Automation (Java)**, API testing, and performance testing  
+- 🔐 Hands-on experience in **Web & API Security Testing**, bug bounty research, and ethical hacking  
+- 🧠 Exploring **AI-driven automation** and real-world AI use cases in QA & security workflows  
+- 🤝 Open to collaboration on **software testing, automation frameworks, and web app pentesting**
+
+---
+## 🛠️ Tech Stack
+**Testing & Automation**  
+- Selenium | Java | Maven | Manual Testing | Regression Testing  
+**API & Performance**  
+- REST APIs | Postman | JMeter | Burp Suite  
+**Security**  
+- Web Application Pentesting | API Security | Vulnerability Assessment  
+**Database & DevOps**  
+- Microsoft SQL Server | Git | Azure (QA workflows)
+---
+
+## 🎓 Udemy Course
+📚 **Google Hacking: Databases & Information Gathering**  
+🔗 https://www.udemy.com/course/google-hacking-databases-information-gathering/
+
+---
 you Can Dork me my name on google for more information:
 
 Hall of Fame on Apple - <a href=https://support.apple.com/en-us/102774> Apple HOF </a>   - 2024 <br>
